@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
 }
 ul {
-  padding: 0px!important;
+  padding: 0px !important;
 }
 .menu-principal {
   width: 100%;
@@ -37,14 +37,13 @@ main {
   margin-left: 15px;
   height: 50px;
 }
-.menu ul li:hover{
-  
+.menu ul li:hover {
   border-bottom: 3px solid #09f80e;
 }
 .menu ul li a:hover {
   color: #09f80e;
 }
-.menu ul li a{
+.menu ul li a {
   color: #8b8b8b;
   text-decoration: none;
   font-size: 18px;
@@ -68,7 +67,6 @@ main {
   width: 190px;
   padding: 12px;
   border: 1px solid #d6d6d6;
-
 }
 .col-100 {
   width: 100%;
